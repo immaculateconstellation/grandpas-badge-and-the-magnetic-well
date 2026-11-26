@@ -13,8 +13,8 @@ well, where the light holds it.
 
 - `manuscript.md` — the full text, spread by spread, with art notes.
 - `build_pdf.py` — builds the PDF from the manuscript and illustrations.
-- `illustrations/` — cover and spread artwork.
-- `grandpas-badge-and-the-magnetic-well.pdf` — the built book.
+- `illustrations/` — cover and spread artwork (not in this repo yet — they need a web upload).
+- `grandpas-badge-and-the-magnetic-well.pdf` — the built book (not in this repo yet — needs a web upload).
 - `LICENSE.md` — IOF Attribution License v1.0.
 
 ## License
@@ -24,3 +24,10 @@ Released open source 2026-11-12 under the IOF Attribution License v1.0
 to reproduce, share, and distribute this book freely for church, family,
 and educational use stands alongside this release. Copyright remains with
 the author.
+
+## Related
+
+- [Magnetic Well](https://github.com/immaculateconstellation/magnetic-well) — the magnetic-well package this story is built on.
+- [AHR-Endpoint](https://github.com/immaculateconstellation/ahr-endpoint-p) — Adaptive Hollow Reflector, an experimental Rust endpoint-security agent.
+- [IOF Resonance](https://github.com/immaculateconstellation/Iof-resonance) — the Infinite Optical Fabric dashboard.
+- [Self-Dissolving Magnetic Microswimmers](https://github.com/immaculateconstellation/self-disolving-magnetic-swimmers) — a concept note for plaque-breaking microrobots that dissolve into usable iron.
